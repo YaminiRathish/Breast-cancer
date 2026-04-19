@@ -1,0 +1,7 @@
+{
+  "name": "OncoVision XAI",
+  "description": "A Hybrid Deep Learning and Machine Learning Framework for Breast Cancer Diagnosis with Explainable AI (SHAP/PDP), based on the 2026 Project Report.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
