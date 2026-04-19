@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect } from 'react';
-import Navbar from './Navbar';
+import { Navbar } from './Navbar';
 import { Hero } from './Hero';
 import { DiagnosisDashboard } from './DiagnosisDashboard';
 import { Login } from './Login';
